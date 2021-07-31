@@ -1,0 +1,17 @@
+{
+  "name": "algo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilles-margerin/full-tests-algo-draft.git"
+  },
+  "author": "Gilles Margerin",
+  "bugs": {
+    "url": "https://github.com/gilles-margerin/full-tests-algo-draft/issues"
+  },
+  "homepage": "https://github.com/gilles-margerin/full-tests-algo-draft#readme"
+}
